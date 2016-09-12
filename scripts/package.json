@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-examples",
+  "version": "0.0.1",
+  "description": "nodejs CALLR examples",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:THECALLR/examples-nodejs.git"
+  },
+  "author": "",
+  "dependencies": {
+    "callr": "^1.0.0",
+    "commander": "^2.9.0"
+  }
+}
