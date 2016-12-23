@@ -48,13 +48,9 @@ $ npm start
 ---
 
 ## Further help
-* You will find API documentation and snippets here at [http://thecallr.com/docs/](http://thecallr.com/docs/)
+* You will find API documentation and snippets here at [http://www.callr.com/docs/](http://www.callr.com/docs/)
 * Or in our github repository [https://github.com/THECALLR/](https://github.com/THECALLR/)
 * nodejs sdk github here ([https://github.com/THECALLR/sdk-nodejs](https://github.com/THECALLR/sdk-nodejs))
 * nodejs examples here ([https://github.com/THECALLR/examples-nodejs](https://github.com/THECALLR/examples-nodejs))
  
-If you have any further questions or require assistance with these examples, please contact CALLR Support
-* support@callr.com
-* FR: +33 (0)1 84 14 00 30
-
 ---

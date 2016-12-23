@@ -209,8 +209,8 @@ Please see the README [here](click2call-web/README.md) for more information on r
 To create a simple click to call application, use *click2call.js*, here we will create a click to call application
 with a tts media that will be played to person A before they are connected to person B.
 
-For more information on the Click to Call api, see the [documentation here](http://thecallr.com/docs/api/services/clicktocall/calls/)
-and [related objects here](http://thecallr.com/docs/objects/#CLICKTOCALL10).
+For more information on the Click to Call api, see the [documentation here](http://www.callr.com/docs/api/services/clicktocall/calls/)
+and [related objects here](http://www.callr.com/docs/objects/#CLICKTOCALL10).
 
 1. Create our tts media file, with a simple greeting. ( see [Sample scripts](#sample-scripts) for more information on using the media script )
     ```
@@ -235,13 +235,8 @@ and [related objects here](http://thecallr.com/docs/objects/#CLICKTOCALL10).
 ---
 
 ## Further help
-* You will find API documentation and snippets here at [http://thecallr.com/docs/](http://thecallr.com/docs/)
+* You will find API documentation and snippets here at [http://www.callr.com/docs/](http://www.callr.com/docs/)
 * Or in our github repository [https://github.com/THECALLR/](https://github.com/THECALLR/)
 * nodejs sdk github here ([https://github.com/THECALLR/sdk-nodejs](https://github.com/THECALLR/sdk-nodejs))
-* nodejs examples here ([https://github.com/THECALLR/examples-nodejs](https://github.com/THECALLR/examples-nodejs))
  
-If you have any further questions or require assistance with these examples, please contact CALLR Support
-* support@callr.com
-* FR: +33 (0)1 84 14 00 30
-
-- - -
+---
